@@ -1,6 +1,8 @@
 # LangChain Core
-langchain
-langchain-core
+langchain==0.1.20
+langchain-core==0.1.53
+langchain-community==0.0.30
+
 
 # OpenAI Integration
 langchain-openai
@@ -10,7 +12,7 @@ openai
 langchain-anthropic
 
 # Google Gemini (PaLM) Integration
-langchain-google-genai
+langchain-google-genai==0.0.6
 google-generativeai
 
 # Hugging Face Integration
@@ -31,7 +33,7 @@ tiktoken
 youtube-transcript-api
 langchain_community
 
-pydantic
-pydantic[email]
+pydantic==1.10.13
+
 grandalf
 langchain_core
