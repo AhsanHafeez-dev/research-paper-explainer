@@ -1,39 +1,7 @@
-# LangChain Core
-langchain==0.1.20
-langchain-core==0.1.53
-langchain-community==0.0.30
-
-
-# OpenAI Integration
-langchain-openai
-openai
-
-# Anthropic Integration
-langchain-anthropic
-
-# Google Gemini (PaLM) Integration
-langchain-google-genai==0.0.6
-google-generativeai
-
-# Hugging Face Integration
-langchain-huggingface
-transformers
-huggingface-hub
-
-# Environment Variable Management
-python-dotenv
-
-# Machine Learning Utilities
-numpy
-scikit-learn
-google
-
-faiss-cpu 
-tiktoken
-youtube-transcript-api
-langchain_community
-
-pydantic==1.10.13
-
-grandalf
-langchain_core
+langchain==1.1.2
+langchain-core==1.1.1
+langchain-google-genai==1.0.3
+google-generativeai==0.8.5
+python-dotenv==1.0.1
+streamlit==1.32.0
+pydantic==2.9.2
