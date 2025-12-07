@@ -34,3 +34,4 @@ langchain_community
 pydantic
 pydantic[email]
 grandalf
+langchain_core
